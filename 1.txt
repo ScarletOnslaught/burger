@@ -2,3 +2,4 @@ Hello,World!
 Hello,HIBIKI!
 GoodBye,ZJH!
 Bye!
+Hello tomorrow!
